@@ -1,18 +1,18 @@
 <resources>
-    <string name="app_name">Pedra Tesoura e Papel</string>
-    <string name="gum_selection">\nSeleção de Arma.</string>
-    <string name="winner">Vencedor da batalha</string>
-    <string name="empate">Empate, rodada desconsiderada</string>
-    <string name="venceu_o_confronto">Venceu o confronto</string>
-    <string name="choouse_gum">deve escolher uma arma.</string>
+    <string name="app_name">Pedra-tesoura-papel</string>
+    <string name="gum_selection">\nSeleção de arma.</string>
+    <string name="winner">"Vencedor da batalha: "</string>
+    <string name="empate">Empate, rodada desconsiderada.</string>
+    <string name="venceu_o_confronto">" venceu o confronto."</string>
+    <string name="choose_gum">" deve escolher uma arma."</string>
     <string name="escolha_arma">, selecione qual a arma que utilizará no confronto:</string>
     <string name="pedra">Pedra</string>
     <string name="tesoura">Tesoura</string>
     <string name="papel">Papel</string>
-    <string name="lutar">LUTAR</string>
+    <string name="lutar">Lutar</string>
     <string name="fechar">Fechar</string>
     <string name="placar">Placar</string>
     <string name="nome_do_competidor">Nome do competidor</string>
     <string name="tipo_de_jogo">Tipo de jogo</string>
-    <string name="iniciar_jogo">Iniciar Jogo</string>
+    <string name="iniciar_jogo">Iniciar jogo</string>
 </resources>

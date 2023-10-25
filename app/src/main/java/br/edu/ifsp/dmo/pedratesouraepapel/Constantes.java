@@ -9,4 +9,6 @@ public class Constantes {
     public static final String KEY_NOME = "nome";
     public static final String KEY_NRO_JOGADOR = "nro_jogador";
     public static final String KEY_COISA = "coisa";
+
+    public static final String KEY_MODO_JOGO = "modo_jogo";
 }

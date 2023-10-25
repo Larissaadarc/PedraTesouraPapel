@@ -11,8 +11,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 
+import com.example.pedratesouraepapel.R;
+
 import br.edu.ifsp.dmo.pedratesouraepapel.Constantes;
-import br.edu.ifsp.dmo.pedratesouraepapel.R;
+
 
 public class MainActivity extends AppCompatActivity {
 

@@ -3,6 +3,6 @@
     <string-array name="tipos_jogos">
         <item>Confronto único</item>
         <item>Melhor de 3</item>
-        <item>Melhor de 5</item>
+        <item>Melho de 5</item>
     </string-array>
 </resources>
